@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @prabhavpawar. I'm a Solution Architect certified in Togaf, Confluent Kafka and Java. I've done data analytics using R / Python and app lifecycle on docker / kubernetes platforms
-- 👀 I’m interested in Event-driven architecture and Blockchain capabilities
+- 👋 Hi, I’m @prabhavpawar. I'm an Engineering Lead in Togaf, Confluent Kafka and Java/Golang. I've done data analytics using R / Python and app lifecycle on docker / kubernetes platforms with golang and infrastructure using Terraform.
+- 👀 I’m interested in Event-driven architecture and AI/ML capabilities
 - 🌱 I’m currently learning multi-cloud platforms for cost-optimization, security pillar
-- 💞️ I’m looking to collaborate on blockchain
+- 💞️ I’m looking to collaborate on Langchain / System design solutions / Golang
 - 📫 Reach out to me on slack - Prabhav Pawar or dm on pawar.prabhav@gmail.com
 
 <!---
